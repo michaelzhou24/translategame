@@ -210,6 +210,4 @@ public class Main extends Application {
         game = new TranslateGame(language, p1, p2);
         gameStart(language);
     }
-
-
 }
